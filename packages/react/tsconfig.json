@@ -1,4 +1,4 @@
 {
-  "extends": "../ts-config/react.json",
+  "extends": "@scatena-ignite-ui/ts-config/react.json",
   "include": ["src"]
 }
