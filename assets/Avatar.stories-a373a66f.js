@@ -1,0 +1,2 @@
+import{A as t}from"./index-7287f210.js";import"./index-c6b0e4fc.js";import"./iframe-e2ea7067.js";import"./index-43e9ae07.js";import"./jsx-runtime-3f0323cc.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/scatenarafael.png",alt:"Rafael Scatena"},argTypes:{src:{control:{type:"text"}}}},i={},p={args:{src:void 0}},l=["Primary","WithFallback"];export{i as Primary,p as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-a373a66f.js.map
